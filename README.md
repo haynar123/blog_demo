@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: 胡说海说
+tagline: 无聊到只能发泄乱七八糟
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
@@ -14,6 +14,7 @@ tagline: A simple and beautiful vuepress blog theme.
 bgImageStyle: {
   height: '450px'
 }
+bgImage: 'background.jpg'
 isShowTitleInHome: false
 actionText: Guide
 actionLink: /views/other/guide
